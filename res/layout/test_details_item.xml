@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/attempt"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <ImageView
+        android:id="@+id/attempt_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bad"
+        android:paddingLeft="5dp" 
+        android:paddingTop="1dp" 
+         />
+
+    <TextView
+        android:id="@+id/attempt_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp" 
+        android:text="A bunch of text blah blah loremmnas das d asg as 1 23123 51 235   953 2523 23 numbers"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</LinearLayout>

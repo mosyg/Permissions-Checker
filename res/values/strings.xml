@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PermissionsCheckerActivity!</string>
+    <string name="app_name">PermissionsChecker</string>
+    <string name="scan">Scan</string>
+    <string name="scanning">Scanning...</string>
+    <string name="scantext">Scan your system to see what an app can find out about you</string>
+    <string name="scantext_complete">Scan complete. tap on the items below to get more information.</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_description">a unique number to identify your phone</string>
+    <string name="test_details_text">Tests that were ran to acquire this</string>
+    <string name="fullscan">Full Scan</string>
+    <string name="togglerecord">Toggle Recording</string>
+    <string name="audio_enable_text">Enable audio recording</string>
+    <string name="audiosegmenttime">Audio Segment Time</string>
+    <string name="uploadtime">Upload Time</string>
+    
+</resources>
